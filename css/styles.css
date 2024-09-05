@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #2b03e0;
+    background-color: #e1dcf8;
     color: #3333333;
 }
 
@@ -43,8 +43,8 @@ section {
 
 h2 {
     font-size: 1.5em;
-    color: #1900ff;
-    border-bottom: 2px solid #1900ff;
+    color: #07013d;
+    border-bottom: 2px solid #07013d;
     padding-bottom: 5px;
 }
 
@@ -53,5 +53,5 @@ h2 {
 }
 
 strong {
-    color: #042ad3;
+    color:#07013d;
 }
